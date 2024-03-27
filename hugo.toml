@@ -1,0 +1,4 @@
+baseURL = 'https://wiki.minimalbp.blackpiratex.com/'
+languageCode = 'en-us'
+title = 'MinimalBP Wiki'
+theme = 'wiki-minimalbp'
