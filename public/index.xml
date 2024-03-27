@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on MinimalBP Wiki</title>
+    <link>https://wiki.minimalbp.blackpiratex.com/</link>
+    <description>Recent content in Home on MinimalBP Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
+    <atom:link href="https://wiki.minimalbp.blackpiratex.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>https://wiki.minimalbp.blackpiratex.com/getting-started/</link>
+      <pubDate>Wed, 27 Mar 2024 12:58:40 +0530</pubDate>
+      <guid>https://wiki.minimalbp.blackpiratex.com/getting-started/</guid>
+      <description>Getting Started Follow Hugo Docs&amp;rsquo;s - Quick Start guide to install Hugo.&#xA;(Make sure you install Hugo &amp;gt;= v0.112.4)&#xA;Create a new Hugo site&#xA;hugo new site MyFreshWebsite --format yaml # replace MyFreshWebsite with name of your website Note:&#xA;Older versions of Hugo may not support --format yaml Read more here about Hugo Docs&amp;rsquo;s - hugo new site command After you have created a new site, follow the below steps to add MinimalBP</description>
+    </item>
+  </channel>
+</rss>
